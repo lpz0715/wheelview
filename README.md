@@ -19,5 +19,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.zeroBugL:wheelview:[![](https://jitpack.io/v/zeroBugL/wheelview.svg)](https://jitpack.io/#zeroBugL/wheelview)'
+	        implementation 'com.github.zeroBugL:wheelview:latest-version'
 	}
